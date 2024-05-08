@@ -121,7 +121,7 @@ hostname = %APPEND% s3.cn-north-1.amazonaws.com.cn
 # ^https://s3.amazonaws.com/maes-appexpan-protected-prod/STFontSC/STHeitiSC.ttf.+ https://github.com/yujixia/kindle_fonts/raw/main/STHeitiSC/CangErJinKai05-W02/STHeiti.ttf 302
 
 # > 楷体 -> 霞鹜文楷 GB
-^https://s3.amazonaws.com/maes-appexpan-protected-prod/STFontSC/STKaitiSC.ttf.+ https://github.com/yujixia/kindle_fonts/raw/main/STKaiti/LXGWWenKaiGB-Regular/STKaiti.ttf 302
+^https://s3.amazonaws.com/maes-appexpan-protected-prod/STFontSC/STKaitiSC.ttf.+ https://github.com/minliny/kindle_fonts/blob/main/STKaiti/QiQi-JuanXue/STKaiti.ttf 302
 
 # > 宋体 -> 暂缺
 # ^https://s3.amazonaws.com/maes-appexpan-protected-prod/STFontSC/STSongSC.ttf.+
